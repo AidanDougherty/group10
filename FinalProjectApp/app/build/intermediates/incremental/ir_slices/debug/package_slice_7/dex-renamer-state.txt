@@ -1,0 +1,4 @@
+#Wed Jul 11 09:36:13 CDT 2018
+base.0=/Users/AidanDougherty1/Desktop/SummerDiscoveryIOT/SDAndroidStudio/FinalProjectApp/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex
